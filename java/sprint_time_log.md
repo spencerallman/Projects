@@ -25,9 +25,9 @@ The expected minimum amount of time each Sprint for each category is as follows:
 ## Time Log
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
-|----------|----------|:------:|--------------------------------------------|:-----------:|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|4/27/2026|-2:00pm---|:-MTG--:|-----In class planning meeting for both individual and team-----|:-1 hour--:|
+|    4/28/2026      |     2:11pm     |     IM   |           Set up VS code for Java and started practice                                 |    30 min         |
+|5/2/2026| 7:00pm |    IM    |      Set up a test file for Java and started learning syntax.                                      |    2 hours         |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
