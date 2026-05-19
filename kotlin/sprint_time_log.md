@@ -29,9 +29,9 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |5/11/2026|  2:00pm  |   MTG  | Individual and Team Planning  |      1 hr   |
 |5/12/2026|  2:00pm  |   IM   |    Set up kotlin              |      45 min |
 |5/14/2026|  4:00pm  |   IM   | Kotlin tutorial/learn basics  |      1 hr   |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|5/15/2026|  2:00pm  |   MTG  |  Standup Meeting              |      1 hr   |
+|5/18/2026|  2:00pm  |   TP   |  team project work day        |       1hr   |
+|5/19/2026|  11:00am |   IM   |  worked on calculator project |     2hr     |
 
 _Note: Add more rows as needed._
 
